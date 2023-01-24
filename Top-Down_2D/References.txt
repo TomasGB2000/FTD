@@ -1,0 +1,18 @@
+2D Art:
+Characters:
+Gold Metal (2019).Top-Down 2D RPG Assets Pack | 2D Characters | Unity Asset Store  Available at: https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-188718 (Accessed: 3 May 2022).
+
+Tileset:
+Cainos (2021).Pixel Art Top Down - Basic | 2D Environments | Unity Asset Store  Available at: https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605 (Accessed: 3 May 2022).
+
+Sounds:
+ Krux, R (no date)FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free. Available at: https://freepd.com/horror.php#google_vignette (Accessed: 20 May 2022).
+ KuraiWolf (2019) Light Machine Gun, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/light-machine-gun (Accessed: 20 May 2022).
+ qubodup (2009) 15 monster grunt/pain/death sounds, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/15-monster-gruntpaindeath-sounds (Accessed: 20 May 2022).
+ n3b (2011) Grunt, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/grunt (Accessed: 20 May 2022).
+ Soundsnap (2021) Broken porcelain plates rattling in cloth bag, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/broken-porcelain-plates-rattling-in-cloth-bag (Accessed: 20 May 2022).
+ T, N.M. (2019) Tissue Out Of The Box Sfx Sound Effect, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/tissue-out-of-the-box-sfx-sound-effect (Accessed: 20 May 2022).
+ remaxim (2010) Win Music #2, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/win-music-2 (Accessed: 20 May 2022).
+ Sudocolon (2014) Icy Game Over, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/icy-game-over (Accessed: 20 May 2022).
+ spookymodem (2014) Key Jiggle, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/key-jiggle (Accessed: 20 May 2022).
+ DoKashiteru (2009) 3 Heal Spells, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/3-heal-spells (Accessed: 20 May 2022).
